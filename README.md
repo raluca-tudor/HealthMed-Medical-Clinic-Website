@@ -70,8 +70,6 @@ HealthMed Medical Clinic Website:
 # How to Run
 This is a static HTML website, so no server-side setup is required.
 1. Download or clone the repository.
-   'bash
-   git clone https://github.com/your-username/HealthMed-Medical-Clinic-Website.git'
 2. Navigate to the project folder on your computer.
 3. Simply double-click on index.html to open the website in your default web browser.
 
